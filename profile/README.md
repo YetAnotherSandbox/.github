@@ -1,5 +1,13 @@
-## Hi there 👋
+# Welcome to the next <span style="color: red;">GENERATION</span>
+---
 
-### You might be asking, what is this, i don't know either LOL
+YetAnotherSandbox is a game platform. Currently in development.
 
-apk ~~femboy~~ was here
+We want to be the next generation of sandbox games.
+
+---
+
+Developers:
+
+Viniizin
+ItsLuiggiYahoo
